@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#FF15CC69</color>
+    <color name="grey">#FFB0B7BA</color>
+    <color name="yellow">#FFEDC843</color>
+    <color name="main_bg">#FFF7F7F7</color>
+    <color name="dark">#FF12282F</color>
+    <!--  secondary colors  -->
+    <color name="green_a5">#0D15CC69</color>
+    <color name="dark_grey">#FF5A696E</color>
+    <color name="red">#FF5A5A</color>
+
+
+    <color name="shimmer_color">#D3DFE3</color>
+</resources>
